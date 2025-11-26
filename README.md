@@ -4,6 +4,12 @@
 
 A modern, responsive landing experience for the EdgeAI SaaS platform. Built with React, TypeScript, and Vite, it highlights AI services, customer logos, pricing tiers, and an enterprise-focused CTA backed by a light/dark theme toggle powered by Zustand.
 
+## 🔗 Live Demo
+
+👉 [View Deployed App](https://Rola-Al-Ahmad.github.io/EdgeAI)
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
